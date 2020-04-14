@@ -1,23 +1,8 @@
 {
   "pages": [
-    "duanzi/home/home",
-
-    "duanzi/dz_image/image",
-  
-    "duanzi/dz_video/video",
-    "pages/index/index",
-    "pages/userConsole/userConsole",
-    "pages/storageConsole/storageConsole",
-    "pages/databaseGuide/databaseGuide",
-    "pages/addFunction/addFunction",
-    "pages/deployFunctions/deployFunctions",
-    "pages/chooseLib/chooseLib",
-    "pages/openapi/openapi",
-    "pages/openapi/serverapi/serverapi",
-    "pages/openapi/callback/callback",
-    "pages/openapi/cloudid/cloudid",
-    "pages/im/im",
-    "pages/im/room/room"
+    "pages/home/home",
+    "pages/dz_image/image",
+    "pages/dz_video/video"
   ],
   "window": {
     "backgroundColor": "#F6F6F6",
@@ -30,19 +15,19 @@
     "selectedColor": "#1296db",
     "list": [
       {
-        "pagePath": "duanzi/home/home",
+        "pagePath": "pages/home/home",
         "text": "段子",
         "iconPath": "images/commen/text.png",
         "selectedIconPath": "images/commen/text_active.png"
       },
       {
-        "pagePath": "duanzi/dz_image/image",
+        "pagePath": "pages/dz_image/image",
         "text": "图片",
         "iconPath": "images/commen/image.png",
         "selectedIconPath": "images/commen/image_active.png"
       },
       {
-        "pagePath": "duanzi/dz_video/video",
+        "pagePath": "pages/dz_video/video",
         "text": "视频",
         "iconPath": "images/commen/video.png",
         "selectedIconPath": "images/commen/video_active.png"

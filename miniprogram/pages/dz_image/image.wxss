@@ -1,0 +1,4 @@
+
+.listItem .itemContent image{
+  width:100%;
+}
